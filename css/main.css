@@ -1,0 +1,30 @@
+.hidden
+{
+	display: none;
+}
+
+h1, h2
+{
+	font-family: 'Oswald', Arial, sans-serif;
+}
+
+h1
+{
+	font-size: 48px;
+	font-weight: 700;
+}
+
+h2
+{
+	font-size: 24px;
+	font-weight: 200;
+}
+
+#mainNav ul li, #footerNav ul li
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	list-style-type: none;
+}
+

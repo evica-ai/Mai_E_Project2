@@ -1,6 +1,6 @@
 ## MMED-1056-01 Mai_Evica_Project2
 
-This is second homework of MMEd-1056-01 which is the basic folder set up that will be used during the semsester Prequisite: <a ref="https://www.sublimetext.com/3">Sublime Text 3</a>
+This is second homework of MMEd-1056-01 which is the basic website and typography set up that will be used during the semsester Prequisite: <a ref="https://www.sublimetext.com/3">Sublime Text 3</a>
 
 ### Prerequisistes 
 
