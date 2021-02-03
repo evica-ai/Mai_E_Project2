@@ -3,21 +3,35 @@
 	display: none;
 }
 
-h1, h2
-{
-	font-family: 'Oswald', Arial, sans-serif;
-}
 
 h1
 {
-	font-size: 48px;
-	font-weight: 700;
+	font-family: 'bold 12px/60px Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 24px;
 }
 
 h2
 {
+	font-family: 'Lora', sans-serif;
+	font-style: Italic;
+	font-weight: 100;
+	font-size: 18px;
+}
+
+#cursive
+{
+	font-family: 'Lora', sans-serif;
+	font-style: Italic;
+	font-weight: 100;
+	font-size: 18px;
+}
+#bold
+{
+	font: 'bold 12px/60px Montserrat', sans-serif;
+	font-style: bold;
+	font-weight: 500;
 	font-size: 24px;
-	font-weight: 200;
 }
 
 #mainNav ul li, #footerNav ul li
@@ -28,3 +42,43 @@ h2
 	list-style-type: none;
 }
 
+.button {
+	font-family: 'bold 12px/60px Montserrat', sans-serif;
+	font-weight: 600;
+	font-size: 20px;
+	background-color: #ffcc33;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background-color: #000000;
+  color: white;
+}
+
+
+
+.main_nav, .w3-button
+{
+	font-family: 'bold 12px/60px Montserrat', sans-serif;
+	font-weight: 600;
+	font-size: 20px;
+	background-color: #ffcc33;
+  border: none;
+  color: black;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+
+.main_nav:hover {
+  background-color: #000000;
+  color: white;
+}
